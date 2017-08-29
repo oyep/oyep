@@ -8,12 +8,14 @@ Most protocols in this collection require access to a BSL-1 molecular biology la
 
 * Pipettes and sterile tips
 * Lab benches
+* Autoclave
 * Shaking incubator that can shake at 200RPM while maintaining 30C
 * Non-shaking incubator at 30C
 * PCR machine
 * Gel rig
 * -20C freezer (possibly -80C)
 * Bunsen burner or biosafety hood to prevent contamination.
+* Spectrophotometer, nanodrop, or something that can measure optical density.
 * Spreaders or innoculation loops.
 * Proper safety equipment!!!
 
