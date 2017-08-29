@@ -11,3 +11,12 @@ Most protocols in this collection require access to a BSL-1 molecular biology la
 ## Minimum Legal Requirements.
 
 Please research your local federal, state, and municipal laws before getting started. Your local lab should have a safety officer who can help.
+
+## License
+OYEP © by Timothy Stiles
+
+OYEP is licensed under a
+Creative Commons Attribution-ShareAlike 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
