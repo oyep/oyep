@@ -2,7 +2,7 @@
 
 Oyep is a community collection of yeast engineering protocols. Learn how to engineer yeast. Make beer, bread, clothes, sensors, etc with what you engineer. Share it with the community.
 
-## Protocols
+## Repositories and Protocols
 
 * [Yeast Transformation](https://github.com/oyep/transform): Learn how to select plasmids (standalone genetic construct) and transform (insert) them into yeast. Share your results!
 
@@ -18,7 +18,7 @@ Oyep is a community collection of yeast engineering protocols. Learn how to engi
 
 ## Contributing
 
-Each protocol repository will have its own standards for contribution. Proposed additions must be validated in an actual lab setting. To contribute to a repository please remember to fork, branch, make edits, and then submit your pull request. More on general git workflow can be found in [contributing.md](./contributing.md).
+Each protocol repository will have its own standards for contribution. Proposed additions to wet lab protocol related repos must be validated in an actual lab setting before being merged into master. To contribute to a repository please remember to fork, branch, make edits, and then submit your pull request. If you don't know what that means just submit an issue related to what you want to contribute. More on general git workflow can be found in [contributing.md](./contributing.md).
 
 ## Minimum Lab Requirements.
 
