@@ -18,7 +18,7 @@ Oyep is a community collection of yeast engineering protocols. Learn how to engi
 
 ## Contributing
 
-Each protocol repository will have it's own standards for contribution. Proposed additions must be validated in an actual lab setting. To contribute to a repository please remember to fork, branch, make edits, and then submit your pull request. More on general git workflow can be found in [contributing.md](./contributing.md).
+Each protocol repository will have its own standards for contribution. Proposed additions must be validated in an actual lab setting. To contribute to a repository please remember to fork, branch, make edits, and then submit your pull request. More on general git workflow can be found in [contributing.md](./contributing.md).
 
 ## Minimum Lab Requirements.
 
