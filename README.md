@@ -8,7 +8,7 @@ Oyep is a community collection of yeast engineering protocols. Learn how to engi
 
 * [CRISPR](https://github.com/oyep/CRISPR): Protocols for designing guide RNAs, cloning guides into plasmids, and transforming yeast with plasmid and templates (single gene) to make stable modyfications to the yeast genome.
 
-* [plasmids](https://github.com/oyep/plasmids): A collection of plasmids used in OYEP protocols. Everything in the master branch should be tested and verified to work with [yeast transformation](https://github.com/oyep/transform) or [CRISPR](https://github.com/oyep/CRISPR) protocols.
+* [DNA](https://github.com/oyep/DNA): A collection of plasmids, primers, dsDNA, and templates used in OYEP protocols. Everything in the master branch should be tested and verified to work with [yeast transformation](https://github.com/oyep/transform) or [CRISPR](https://github.com/oyep/CRISPR) protocols.
 
 * [Bake](https://github.com/oyep/bake): A standard test recipe to test if a yeast strain can be used to make sourdough bread.
 
