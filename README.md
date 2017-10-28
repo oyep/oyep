@@ -1,6 +1,6 @@
 # OYEP (Open Yeast Engineering Project)
 
-Oyep is a community collection of yeast engineering protocols. Learn how to engineer yeast. Make beer, bread, clothes, sensors, etc with what you engineer. Share it with the community.
+OYEP is a community collection of yeast engineering protocols. Learn how to engineer yeast. Make beer, bread, clothes, sensors, etc with what you engineer. Share it with the community.
 
 ## Repositories and Protocols
 
